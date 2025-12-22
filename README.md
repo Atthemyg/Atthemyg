@@ -6,11 +6,11 @@
 
 # About me 👩‍💻
 
-##### 💻 Multiplatform Application Development student (DAM)
+#### 💻 Multiplatform Application Development student (DAM)
 
-##### 🎓 B1 and B2 Cambridge English Titles
+#### 🎓 B1 and B2 Cambridge English Titles
 
-##### 📍 Studying in: IES Telesforo Bravo (2025-2026)
+#### 📍 Studying in: IES Telesforo Bravo (2025-2026)
 
 I'm Atteneri, a DAM student motivated by learning and continuously improving my programming skills. I like to transform ideas into functional applications, working on both logic and design.
 
@@ -20,7 +20,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 # Technologies ⌨️
 
 
-- ## I'm learning to use:**
+- ## I'm learning to use:
 
 <br>
 
@@ -36,7 +36,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <br>
 <br>
 
-- ## Technologies about other things I'm familiar with:**
+- ## Technologies about other things I'm familiar with:
 
 <br>
   
