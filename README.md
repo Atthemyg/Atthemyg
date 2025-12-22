@@ -52,6 +52,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 My goal is to continue learning to improve my technical skills and participate in projects that allow me to gain experience to grow professionally.
 
+<br>
 
 > The only way to learn is to live.
 > — The Midnight Library
