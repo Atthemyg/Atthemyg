@@ -46,8 +46,9 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
 </div>
 
+<br>
 
-# Goal 🎇
+# Goal ✨
 
 My goal is to continue learning to improve my technical skills and participate in projects that allow me to gain experience to grow professionally.
 
