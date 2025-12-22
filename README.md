@@ -25,6 +25,15 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="100" height="100" src="https://github.com/user-attachments/assets/a8abb2f3-6fa9-412a-a1ef-e8886406c9f8"/>
 
 
+- **Markup languages:**
+
+  <img width="100" height="100" src="https://github.com/user-attachments/assets/d8766cca-447f-420b-b7b1-f708493498e6"/>
+  <img width="100" height="100" src="https://github.com/user-attachments/assets/72df8443-28dd-4fbd-9b3a-cd1133868df4"/>
+  <img width="100" height="100" src="https://github.com/user-attachments/assets/89c86b9a-204a-4144-ae0b-d54d982314bc"/>
+
+
+
+
 
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
