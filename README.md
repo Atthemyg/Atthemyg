@@ -3,6 +3,7 @@
 
 ![Atthemyg](img_header/Atthemyg_.png)
 
+<br>
 
 # About me 👩‍💻
 
