@@ -47,6 +47,10 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 </div>
 
 
+# Goal 🎇
+
+My goal is to continue learning to improve my technical skills and participate in projects that allow me to gain experience to grow professionally.
+
 
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
