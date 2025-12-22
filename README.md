@@ -20,7 +20,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 # Technologies ⌨️
 
 
-- ## I'm learning to use:
+- ### I'm learning to use:
 
 <br>
 
@@ -36,7 +36,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <br>
 <br>
 
-- ## Technologies about other things I'm familiar with:
+- ### Technologies about other things I'm familiar with:
 
 <br>
   
