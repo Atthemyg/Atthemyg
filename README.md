@@ -19,26 +19,12 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 # Technologies ⌨️
 
-- **Programming languages:**
-  
 <img width="100" height="100" src="https://github.com/user-attachments/assets/7ca504f4-217d-4b87-be63-4a175f17f2fd"/>
 <img width="100" height="100" src="https://github.com/user-attachments/assets/a8abb2f3-6fa9-412a-a1ef-e8886406c9f8"/>
-
-
-- **Markup languages:**
-
 <img width="100" height="100" src="https://github.com/user-attachments/assets/d8766cca-447f-420b-b7b1-f708493498e6"/>
 <img width="100" height="100" src="https://github.com/user-attachments/assets/72df8443-28dd-4fbd-9b3a-cd1133868df4"/>
 <img width="100" height="100" src="https://github.com/user-attachments/assets/89c86b9a-204a-4144-ae0b-d54d982314bc"/>
-
-
-- **Data base:**
-
 <img width="100" height="100" src="https://github.com/user-attachments/assets/f79a712c-76b7-4336-960b-552f88c24ef2"/>
-
-
-- **Development environments:**
-
 <img width="100" height="100" src="https://github.com/user-attachments/assets/40e53023-ae52-4c4c-a3ee-42385cea64c1"/>
 
 
