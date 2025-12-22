@@ -20,6 +20,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 # Technologies ⌨️
 
 - **Programming languages:**
+  
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7ca504f4-217d-4b87-be63-4a175f17f2fd"/>
 
 
