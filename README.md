@@ -32,6 +32,17 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="100" height="100" src="https://github.com/user-attachments/assets/89c86b9a-204a-4144-ae0b-d54d982314bc"/>
 
 
+- **Data base:**
+
+<img width="100" height="100" src="https://github.com/user-attachments/assets/f79a712c-76b7-4336-960b-552f88c24ef2"/>
+
+
+- **Development environments:**
+
+<img width="100" height="100" src="https://github.com/user-attachments/assets/40e53023-ae52-4c4c-a3ee-42385cea64c1"/>
+
+
+
 
 
 
