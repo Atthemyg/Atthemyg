@@ -38,7 +38,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <br>
 <br>
 
-- ### Technologies about other things I'm familiar with:
+- ### About other things I'm familiar with:
 
 <br>
   
