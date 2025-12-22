@@ -58,7 +58,7 @@ My goal is to continue learning to improve my technical skills and participate i
 > — The Midnight Library
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atthemyg&theme=tokyonight-duo&border_radius=20&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atthemyg&theme=tokyonight-duo&border_radius=20&date_format=j%2Fn%5B%2FY%5D)(https://git.io/streak-stats)
 
 
 <!--
