@@ -1,7 +1,7 @@
 
 <h1 align="center">🌸 Welcome to my profile! 🌸</h1>
 
-![Atthemyg](img/Atthemyg_.png)
+![Atthemyg](img_header/Atthemyg_.png)
 
 
 # About me 👩‍💻
