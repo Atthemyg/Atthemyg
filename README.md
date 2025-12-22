@@ -1,6 +1,4 @@
-<center>
-Welcome to my profile! 👋
-</center>
+# Welcome to my profile! 👋
 
 ![Atthemyg](img/Atthemyg_.png)
 <!--
