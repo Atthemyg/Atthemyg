@@ -37,6 +37,9 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <br>
 
 - **Other technologies I'm familiar with:**
+
+<br>
+  
 <div style="display:flex">
 <img width="100" height="100" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
 <img width="100" height="100" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
