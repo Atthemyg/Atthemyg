@@ -20,7 +20,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 # Technologies ⌨️
 
 - **Programming languages:**
-<div>
+<div style="display:flex">
 <img src="https://file.labex.io/namespace/df87b950-1f37-4316-bc07-6537a1f2c481/java/lab-your-first-java-lab/assets/java.svg" style=height:"5vw">
 </div>
 
