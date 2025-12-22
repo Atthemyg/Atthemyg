@@ -34,6 +34,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="100" height="100" src="https://github.com/user-attachments/assets/3e2dbcd9-0ca8-4be2-8b35-7cfba6b2f699"/>
 
 <br>
+<br>
 
 - **Other technologies I'm familiar with:**
 
