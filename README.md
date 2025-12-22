@@ -20,9 +20,11 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 # Technologies ⌨️
 
 - **Programming languages:**
-
+<div height:"5vw">
 ![Java](img_lenguajes/java.jpg) 
 ![JavaScript](img_lenguajes/JS.jpg)
+</div>
+
 
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
