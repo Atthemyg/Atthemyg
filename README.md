@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 
-![Atthemyg](img/Atthemyg.png)
+![Atthemyg](img/Atthemyg_.png)
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
