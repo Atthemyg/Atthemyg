@@ -6,11 +6,11 @@
 
 # About me 👩‍💻
 
-💻 **Multiplatform Application Development student (DAM)**
+### 💻 Multiplatform Application Development student (DAM)
 
-🎓 **B1 and B2 Cambridge English Titles**
+### 🎓 B1 and B2 Cambridge English Titles
 
-📍 **Studying in: IES Telesforo Bravo (2025-2026)**
+### 📍 Studying in: IES Telesforo Bravo (2025-2026)
 
 I'm Atteneri, a DAM student motivated by learning and continuously improving my programming skills. I like to transform ideas into functional applications, working on both logic and design.
 
@@ -20,7 +20,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 # Technologies ⌨️
 
 
-- **I'm learning to use:**
+- ## I'm learning to use:**
 
 <br>
 
@@ -36,7 +36,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <br>
 <br>
 
-- **Technologies about other things I'm familiar with:**
+- ## Technologies about other things I'm familiar with:**
 
 <br>
   
@@ -45,6 +45,8 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="100" height="100" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
 <img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
 </div>
+
+
 
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
