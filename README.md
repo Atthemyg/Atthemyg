@@ -33,13 +33,15 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="100" height="100" src="https://github.com/user-attachments/assets/40e53023-ae52-4c4c-a3ee-42385cea64c1"/>
 <img width="100" height="100" src="https://github.com/user-attachments/assets/3e2dbcd9-0ca8-4be2-8b35-7cfba6b2f699"/>
 
+<br>
+<br>
 
 - **Other technologies I'm familiar with:**
-
+<div style="display:flex">
 <img width="100" height="100" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
 <img width="100" height="100" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
 <img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
-
+</div>
 
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
