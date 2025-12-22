@@ -33,8 +33,11 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="100" height="100" src="https://github.com/user-attachments/assets/40e53023-ae52-4c4c-a3ee-42385cea64c1"/>
 <img width="100" height="100" src="https://github.com/user-attachments/assets/3e2dbcd9-0ca8-4be2-8b35-7cfba6b2f699"/>
 
+<br>
 
+- **Other technologies I'm familiar with:**
 
+<img width="100" height="100" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
 
 
 
