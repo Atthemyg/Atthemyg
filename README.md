@@ -16,6 +16,14 @@ I'm Atteneri, a DAM student motivated by learning and continuously improving my 
 
 In my free time I love to play videogames, read, draw, and watch series and movies, activities that help me develop my creative side and disconnect. I also enjoy travelling and discovering new places, as it provides me with new experiences. Besides, I usually listen to music while I program or study to concentrate and stay motivated.
 
+
+# Technologies ⌨️
+
+- **Programming languages:**
+
+![Java](img_lenguajes/java.jpg) 
+![JavaScript](img_lenguajes/JS.jpg)
+
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
