@@ -52,7 +52,8 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 My goal is to continue learning to improve my technical skills and participate in projects that allow me to gain experience to grow professionally.
 
-> La única manera de aprender es vivir. - La biblioteca de la medianoche
+> The only way to learn is to live.
+> — The Midnight Library
 
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
