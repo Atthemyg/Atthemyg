@@ -59,6 +59,9 @@ My goal is to continue learning to improve my technical skills and participate i
 > The only way to learn is to live.
 > — The Midnight Library
 
+# Contact me 🌐
+
+<img width="50" height="50" src="https://ams3.digitaloceanspaces.com/graffica/2021/06/logogmailgrafica-1-1024x576.png"/>
 
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
