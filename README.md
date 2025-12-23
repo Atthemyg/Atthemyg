@@ -123,7 +123,6 @@ My goal is to continue learning to improve my technical skills and participate i
 
 <br>
 <br>
-<br>
 
 ![My proyects](img_header/Proyects.png)
 
