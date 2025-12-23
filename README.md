@@ -91,11 +91,6 @@ My goal is to continue learning to improve my technical skills and participate i
 </p>
 
 <br>
-<br>
-
-***Profile in constant learning and improvement 🚀***
-
-<br>
 
 # Contact me 🌐
 
@@ -119,6 +114,11 @@ My goal is to continue learning to improve my technical skills and participate i
     </td>
   </tr>
 </table>
+
+
+<br>
+
+***Profile in constant learning and improvement 🚀***
 
 <br>
 <br>
