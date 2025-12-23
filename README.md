@@ -109,7 +109,6 @@ My goal is to continue learning to improve my technical skills and participate i
 ***Profile in constant learning and improvement 🚀***
 
 <br>
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atthemyg&theme=material-palenight&show_icons=true&hide_border=false&count_private=true"/>
@@ -117,6 +116,7 @@ My goal is to continue learning to improve my technical skills and participate i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atthemyg&theme=material-palenight&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
+<br>
 <br>
 
 ![My proyects](img_header/Proyects.png)
