@@ -59,7 +59,6 @@ My goal is to continue learning to improve my technical skills and participate i
 > The only way to learn is to live.
 > — The Midnight Library
 
-<br>
 
 # Contact me 🌐
 
