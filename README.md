@@ -35,7 +35,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <a href="https://developer.mozilla.org/es/docs/Web/HTML">
 <img width="100" height="100" src="https://github.com/user-attachments/assets/d8766cca-447f-420b-b7b1-f708493498e6"/>
 </a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">
 <img width="100" height="100" src="https://github.com/user-attachments/assets/72df8443-28dd-4fbd-9b3a-cd1133868df4"/>
 </a>
 <a href="https://www.markdownguide.org/">
