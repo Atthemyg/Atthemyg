@@ -99,6 +99,7 @@ My goal is to continue learning to improve my technical skills and participate i
 
 # Contact me 🌐
 
+<br>
 
 <table>
   <tr>
@@ -119,6 +120,7 @@ My goal is to continue learning to improve my technical skills and participate i
   </tr>
 </table>
 
+<br>
 <br>
 <br>
 
