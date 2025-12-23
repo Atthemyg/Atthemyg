@@ -74,7 +74,7 @@ My goal is to continue learning to improve my technical skills and participate i
   </tr>
   <tr>
     <td>
-      <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"/>
+      <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"/>
     </td>
     <td>
       <a>https://t.me/Atthemyg</a>
