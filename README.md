@@ -4,7 +4,7 @@
 ![Atthemyg](img_header/Atthemyg_.png)
 
 
-# About me 👩‍💻
+# **About me** 👩‍💻
 
 ### 💻 Multiplatform Application Development student (DAM)
 
