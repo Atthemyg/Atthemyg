@@ -81,6 +81,10 @@ My goal is to continue learning to improve my technical skills and participate i
   </tr>
 </table>
 
+<br>
+
+***Profile in constant learning and improvement 🚀***
+
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
