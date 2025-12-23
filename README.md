@@ -117,6 +117,10 @@ My goal is to continue learning to improve my technical skills and participate i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atthemyg&theme=material-palenight&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
+<br>
+
+![My proyects](img_header/Proyects.png)
+
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
