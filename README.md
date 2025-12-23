@@ -61,9 +61,7 @@ My goal is to continue learning to improve my technical skills and participate i
 
 <br>
 
-![Atthemyg's Stats](https://github-readme-stats.vercel.app/api?username=Atthemyg&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
-
-![Atthemyg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atthemyg&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
+![Atthemyg's Stats](https://github-readme-stats.vercel.app/api?username=Atthemyg&theme=material-palenight&show_icons=true&hide_border=false&count_private=true) ![Atthemyg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atthemyg&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 
 
 # Contact me 🌐
