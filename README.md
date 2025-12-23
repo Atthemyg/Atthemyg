@@ -90,6 +90,12 @@ My goal is to continue learning to improve my technical skills and participate i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atthemyg&theme=material-palenight&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
+<br>
+<br>
+
+***Profile in constant learning and improvement 🚀***
+
+<br>
 
 # Contact me 🌐
 
@@ -111,11 +117,6 @@ My goal is to continue learning to improve my technical skills and participate i
     </td>
   </tr>
 </table>
-
-<br>
-<br>
-
-***Profile in constant learning and improvement 🚀***
 
 <br>
 <br>
