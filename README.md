@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color:pink;">🌸 Welcome to my profile! 🌸</h1>
+<h1 align="center">🌸 Welcome to my profile! 🌸</h1>
 
 ![Atthemyg](img_header/Atthemyg_.png)
 
