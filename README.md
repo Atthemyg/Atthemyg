@@ -26,7 +26,9 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 <br>
 
+<a href="https://www.oracle.com/java/">
 <img width="100" height="100" src="https://github.com/user-attachments/assets/7ca504f4-217d-4b87-be63-4a175f17f2fd"/>
+</a>
 <img width="100" height="100" src="https://github.com/user-attachments/assets/a8abb2f3-6fa9-412a-a1ef-e8886406c9f8"/>
 <img width="100" height="100" src="https://github.com/user-attachments/assets/d8766cca-447f-420b-b7b1-f708493498e6"/>
 <img width="100" height="100" src="https://github.com/user-attachments/assets/72df8443-28dd-4fbd-9b3a-cd1133868df4"/>
