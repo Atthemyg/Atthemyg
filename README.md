@@ -6,11 +6,11 @@
 
 # About me 👩‍💻
 
-### 💻 Multiplatform Application Development student (DAM)
+## 💻 Multiplatform Application Development student (DAM)
 
-### 🎓 B1 and B2 Cambridge English Titles
+## 🎓 B1 and B2 Cambridge English Titles
 
-### 📍 Studying in: IES Telesforo Bravo (2025-2026)
+## 📍 Studying in: IES Telesforo Bravo (2025-2026)
 
 <br>
 
