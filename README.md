@@ -28,7 +28,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <br>
 
 <a href="https://www.java.com/es/">
-<img width="100" height="100" src="https://github.com/user-attachments/assets/7ca504f4-217d-4b87-be63-4a175f17f2fd"/>
+<img width="80" height="80" src="https://github.com/user-attachments/assets/7ca504f4-217d-4b87-be63-4a175f17f2fd"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
 <img width="100" height="100" src="https://github.com/user-attachments/assets/a8abb2f3-6fa9-412a-a1ef-e8886406c9f8"/>
