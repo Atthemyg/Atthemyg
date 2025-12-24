@@ -31,25 +31,25 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="80" height="80" src="https://github.com/user-attachments/assets/7ca504f4-217d-4b87-be63-4a175f17f2fd"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-<img width="90" height="90" src="https://github.com/user-attachments/assets/a8abb2f3-6fa9-412a-a1ef-e8886406c9f8"/>
+<img width="80" height="80" src="https://github.com/user-attachments/assets/a8abb2f3-6fa9-412a-a1ef-e8886406c9f8"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML">
-<img width="90" height="90" src="https://github.com/user-attachments/assets/d8766cca-447f-420b-b7b1-f708493498e6"/>
+<img width="80" height="80" src="https://github.com/user-attachments/assets/d8766cca-447f-420b-b7b1-f708493498e6"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-<img width="90" height="90" src="https://github.com/user-attachments/assets/72df8443-28dd-4fbd-9b3a-cd1133868df4"/>
+<img width="80" height="80" src="https://github.com/user-attachments/assets/72df8443-28dd-4fbd-9b3a-cd1133868df4"/>
 </a>
 <a href="https://www.markdownguide.org/">
-<img width="90" height="90" src="https://github.com/user-attachments/assets/89c86b9a-204a-4144-ae0b-d54d982314bc"/>
+<img width="80" height="80" src="https://github.com/user-attachments/assets/89c86b9a-204a-4144-ae0b-d54d982314bc"/>
 </a>
 <a href="https://www.postgresql.org/">
-<img width="90" height="90" src="https://github.com/user-attachments/assets/f79a712c-76b7-4336-960b-552f88c24ef2"/>
+<img width="80" height="80" src="https://github.com/user-attachments/assets/f79a712c-76b7-4336-960b-552f88c24ef2"/>
 </a>
 <a href="https://code.visualstudio.com/">
-<img width="90" height="90" src="https://github.com/user-attachments/assets/40e53023-ae52-4c4c-a3ee-42385cea64c1"/>
+<img width="80" height="80" src="https://github.com/user-attachments/assets/40e53023-ae52-4c4c-a3ee-42385cea64c1"/>
 </a>
 <a href="https://git-scm.com/">
-<img width="90" height="90" src="https://github.com/user-attachments/assets/3e2dbcd9-0ca8-4be2-8b35-7cfba6b2f699"/>
+<img width="80" height="80" src="https://github.com/user-attachments/assets/3e2dbcd9-0ca8-4be2-8b35-7cfba6b2f699"/>
 </a>
 
 <br>
@@ -61,13 +61,13 @@ In my free time I love to play videogames, read, draw, and watch series and movi
   
 <div style="display:flex">
 <a href="https://www.capcut.com/es-es/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=22824611990&adset_id=183774578158&ad_id=765461787963&placement=&keyword_name=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gad_campaignid=22824611990&gbraid=0AAAAACROvhmXU9GHliUh9uRB0nDDHYkQt&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZ31BdqKbZwFISIZG-F35A7ts1hjsf1PU0Lg4z2MNuTa0Me9EvLlDexoCoocQAvD_BwE">
-<img width="90" height="90" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
+<img width="80" height="80" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
 </a>
 <a href="https://alightmotionapp.net/">
-<img width="90" height="90" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
+<img width="80" height="80" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
 </a>
 <a href="https://www.gimp.org/downloads/">
-<img width="90" height="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
+<img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
 </a>
 </div>
 
