@@ -51,9 +51,6 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <a href="https://git-scm.com/">
 <img width="80" height="80" src="https://github.com/user-attachments/assets/3e2dbcd9-0ca8-4be2-8b35-7cfba6b2f699"/>
 </a>
-<a href="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png">
-<img width="80" height="80">
-</a>
 
 <br>
 <br>
@@ -71,6 +68,9 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 </a>
 <a href="https://www.gimp.org/downloads/">
 <img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
+</a>
+<a href="https://www.sweethome3d.com/es/">
+<img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png">
 </a>
 </div>
 
