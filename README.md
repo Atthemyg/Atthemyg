@@ -18,8 +18,6 @@
 
 🌍 **Experience with agile methodologies**
 
-📚 **Continuous Learning**
-
 <br>
 
 I'm Atteneri, a DAM student motivated by learning and continuously improving my programming skills. I like to transform ideas into functional applications, working on both logic and design.
