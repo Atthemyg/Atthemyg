@@ -10,8 +10,6 @@
 
 🎓 **B1 and B2 Cambridge English Titles**
 
-📍 **Studying in: IES Telesforo Bravo (2025-2026)**
-
 🚀 **Interest in Full Stack Development**
 
 📱 **Android Development with Java**
