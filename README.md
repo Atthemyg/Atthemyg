@@ -180,7 +180,7 @@ My goal is to continue learning to improve my technical skills and participate i
       <img width="30" height="30" src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg"/>
     </td>
     <td>
-      <a>Atthemyg</a>
+      <a>[Atthemyg](https://github.com/Atthemyg)</a>
     </td>
   </tr>
 </table>
