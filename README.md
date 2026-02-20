@@ -87,6 +87,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 </div>
 
 <br>
+<br>
 
 # 🧩 Agile methodologies
 
