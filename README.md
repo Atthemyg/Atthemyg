@@ -61,6 +61,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <a href="https://git-scm.com/">
 <img width="60" height="60" src="https://github.com/user-attachments/assets/3e2dbcd9-0ca8-4be2-8b35-7cfba6b2f699"/>
 </a>
+<img width="60" height="60" src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg"/>
 
 <br>
 <br>
