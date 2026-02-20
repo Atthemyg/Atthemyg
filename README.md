@@ -164,7 +164,7 @@ My goal is to continue learning to improve my technical skills and participate i
      <img width="50" height="50" src="https://ams3.digitaloceanspaces.com/graffica/2021/06/logogmailgrafica-1-1024x576.png"/> 
     </td>
     <td>
-      <a>atteneribravobarroso@gmail.com</a>
+      atteneribravobarroso@gmail.com
     </td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@ My goal is to continue learning to improve my technical skills and participate i
       <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"/>
     </td>
     <td>
-      <a>https://t.me/Atthemyg</a>
+      https://t.me/Atthemyg
     </td>
   </tr>
   <tr>
