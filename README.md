@@ -194,7 +194,7 @@ My goal is to continue learning to improve my technical skills and participate i
 <br>
 <br>
 
-![My proyects](img_header/Proyects.png)
+<!--[My proyects](img_header/Proyects.png)-->
 
 <!--
 **Atthemyg/Atthemyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
