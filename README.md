@@ -26,10 +26,6 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 <br>
 
-**🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover**
-
-<br>
-
 # Technologies ⌨️
 
 
@@ -180,6 +176,11 @@ My goal is to continue learning to improve my technical skills and participate i
 
 
 <br>
+<br>
+
+
+**🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover**
+
 <br>
 
 *Profile in constant learning and improvement 🚀*
