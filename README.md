@@ -65,7 +65,6 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="60" height="60" src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg"/>
 
 <br>
-<br>
 
 - ### About other things I'm familiar with:
 
