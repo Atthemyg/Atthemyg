@@ -30,6 +30,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 **🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover**
 
+<br>
 
 # Technologies ⌨️
 
