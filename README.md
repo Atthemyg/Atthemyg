@@ -88,7 +88,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 <br>
 
-## 🧩 Metodologías ágiles
+# 🧩 Agile methodologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge"/>
