@@ -36,8 +36,6 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 - ### I'm learning to use:
 
-<br>
-
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,md,postgres,vscode,git,github)](https://skillicons.dev)
 
 <!--<a href="https://www.java.com/es/">
