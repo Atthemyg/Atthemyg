@@ -169,10 +169,10 @@ My goal is to continue learning to improve my technical skills and participate i
   </tr>
   <tr>
     <td align="center">
-      <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"/>
+      <img width="30" height="30" src="https://img.icons8.com/color/200/linkedin.png"/>
     </td>
     <td>
-      https://t.me/Atthemyg
+      www.linkedin.com/in/atthemyg
     </td>
   </tr>
   <tr>
@@ -185,10 +185,10 @@ My goal is to continue learning to improve my technical skills and participate i
   </tr>
   <tr>
     <td align="center">
-      <img width="30" height="30" src="https://img.icons8.com/color/200/linkedin.png"/>
+      <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"/>
     </td>
     <td>
-      www.linkedin.com/in/atthemyg
+      https://t.me/Atthemyg
     </td>
   </tr>
 </table>
