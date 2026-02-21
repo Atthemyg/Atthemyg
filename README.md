@@ -158,7 +158,7 @@ My goal is to continue learning to improve my technical skills and participate i
 
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
      <img width="50" height="50" src="https://ams3.digitaloceanspaces.com/graffica/2021/06/logogmailgrafica-1-1024x576.png"/> 
