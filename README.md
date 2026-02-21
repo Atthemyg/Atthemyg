@@ -71,7 +71,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
   
 <div style="display:flex">
 <a href="https://www.capcut.com/es-es/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=22824611990&adset_id=183774578158&ad_id=765461787963&placement=&keyword_name=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gad_campaignid=22824611990&gbraid=0AAAAACROvhmXU9GHliUh9uRB0nDDHYkQt&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZ31BdqKbZwFISIZG-F35A7ts1hjsf1PU0Lg4z2MNuTa0Me9EvLlDexoCoocQAvD_BwE">
-<img width="60" height="60" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
+<img width="50" height="50" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
 </a>
 <a href="https://alightmotionapp.net/">
 <img width="60" height="60" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
