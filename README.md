@@ -29,7 +29,6 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 **🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover**
 
-<br>
 
 # Technologies ⌨️
 
@@ -85,7 +84,6 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 </div>
 
 <br>
-<br>
 
 # Agile methodologies 🧩
 
@@ -97,7 +95,6 @@ In my free time I love to play videogames, read, draw, and watch series and movi
   <img src="https://img.shields.io/badge/Kanban-FF8C00?style=for-the-badge"/>
 </p>
 
-<br>
 
 <!--
 ## ⭐ Proyectos Destacados
