@@ -38,7 +38,9 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 <br>
 
-<a href="https://www.java.com/es/">
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,md,postgres,vscode,git,github)](https://skillicons.dev)
+
+<!--<a href="https://www.java.com/es/">
 <img width="60" height="60" src="https://github.com/user-attachments/assets/7ca504f4-217d-4b87-be63-4a175f17f2fd"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
@@ -62,7 +64,7 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <a href="https://git-scm.com/">
 <img width="60" height="60" src="https://github.com/user-attachments/assets/3e2dbcd9-0ca8-4be2-8b35-7cfba6b2f699"/>
 </a>
-<img width="60" height="60" src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg"/>
+<img width="60" height="60" src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg"/>-->
 
 
 - ### About other things I'm familiar with:
