@@ -183,6 +183,14 @@ My goal is to continue learning to improve my technical skills and participate i
       https://github.com/Atthemyg
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img width="30" height="30" src="https://img.icons8.com/color/200/linkedin.png"/>
+    </td>
+    <td>
+      www.linkedin.com/in/atthemyg
+    </td>
+  </tr>
 </table>
 
 
