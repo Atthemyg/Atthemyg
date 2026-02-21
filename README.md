@@ -74,13 +74,13 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 <img width="50" height="50" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
 </a>
 <a href="https://alightmotionapp.net/">
-<img width="60" height="60" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
+<img width="50" height="50" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
 </a>
 <a href="https://www.gimp.org/downloads/">
-<img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
 </a>
 <a href="https://www.sweethome3d.com/es/">
-<img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png">
 </a>
 </div>
 
