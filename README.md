@@ -65,8 +65,6 @@ In my free time I love to play videogames, read, draw, and watch series and movi
 
 
 - ### About other things I'm familiar with:
-
-<br>
   
 <div style="display:flex">
 <a href="https://www.capcut.com/es-es/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=22824611990&adset_id=183774578158&ad_id=765461787963&placement=&keyword_name=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gad_campaignid=22824611990&gbraid=0AAAAACROvhmXU9GHliUh9uRB0nDDHYkQt&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZ31BdqKbZwFISIZG-F35A7ts1hjsf1PU0Lg4z2MNuTa0Me9EvLlDexoCoocQAvD_BwE">
