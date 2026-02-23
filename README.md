@@ -29,6 +29,7 @@ On my free time I love to play videogames, read, draw, listen to music and watch
 
 **🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover**
 
+<br>
 
 # Technologies ⌨️
 
@@ -136,7 +137,7 @@ Panel interactivo de visualización de datos.
 </tr>
 </table>
 -->
-
+<br>
 
 # My goal ✨
 
@@ -147,6 +148,7 @@ My goal is to continue learning to improve my technical skills and participate i
 > The only way to learn is to live.
 > — The Midnight Library
 
+<br>
 
 # Contact me 🌐
 
