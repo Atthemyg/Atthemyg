@@ -191,7 +191,6 @@ My goal is to continue learning to improve my technical skills and participate i
 
 
 <br>
-<br>
 
 <p align="center"><em>Profile in constant learning and improvement 🚀</em></p>
 
