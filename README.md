@@ -66,21 +66,40 @@ On my free time I love to play videogames, read, draw, listen to music and watch
 
 
 - ### About other things I'm familiar with:
-  
-<div style="display:flex">
-<a href="https://www.capcut.com/es-es/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=22824611990&adset_id=183774578158&ad_id=765461787963&placement=&keyword_name=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gad_campaignid=22824611990&gbraid=0AAAAACROvhmXU9GHliUh9uRB0nDDHYkQt&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZ31BdqKbZwFISIZG-F35A7ts1hjsf1PU0Lg4z2MNuTa0Me9EvLlDexoCoocQAvD_BwE">
-<img width="50" height="50" src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"/>
-</a>
-<a href="https://alightmotionapp.net/">
-<img width="50" height="50" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
-</a>
-<a href="https://www.gimp.org/downloads/">
-<img width="50" height="50" src="https://i.blogs.es/bc13c1/gimp/1366_2000.png"/>
-</a>
-<a href="https://www.sweethome3d.com/es/">
-<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png">
-</a>
-</div>
+
+<p align="left">
+  <a href="https://www.capcut.com/" target="_blank">
+    <img src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"
+         alt="CapCut"
+         width="55"
+         height="55"
+         style="margin-right: 10px; border-radius: 12px;" />
+  </a>
+
+  <a href="https://alightmotionapp.net/" target="_blank">
+    <img src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"
+         alt="Alight Motion"
+         width="55"
+         height="55"
+         style="margin-right: 10px; border-radius: 12px;" />
+  </a>
+
+  <a href="https://www.gimp.org/" target="_blank">
+    <img src="https://i.blogs.es/bc13c1/gimp/1366_2000.png"
+         alt="GIMP"
+         width="55"
+         height="55"
+         style="margin-right: 10px; border-radius: 12px;" />
+  </a>
+
+  <a href="https://www.sweethome3d.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png"
+         alt="Sweet Home 3D"
+         width="55"
+         height="55"
+         style="border-radius: 12px;" />
+  </a>
+</p>
 
 <br>
 
