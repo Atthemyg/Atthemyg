@@ -75,7 +75,7 @@ On my free time I love to play videogames, read, draw, listen to music and watch
 <img width="50" height="50" src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"/>
 </a>
 <a href="https://www.gimp.org/downloads/">
-<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png"/>
+<img width="50" height="50" src="https://i.blogs.es/bc13c1/gimp/1366_2000.png"/>
 </a>
 <a href="https://www.sweethome3d.com/es/">
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png">
@@ -157,7 +157,7 @@ My goal is to continue learning to improve my technical skills and participate i
 <table align="center">
   <tr>
     <td align="center">
-     <img width="50" height="50" src="https://ams3.digitaloceanspaces.com/graffica/2021/06/logogmailgrafica-1-1024x576.png"/> 
+     <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s"/> 
     </td>
     <td>
       atthemyg@gmail.com
@@ -181,7 +181,7 @@ My goal is to continue learning to improve my technical skills and participate i
   </tr>
   <tr>
     <td align="center">
-      <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"/>
+      <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png"/>
     </td>
     <td>
       https://t.me/Atthemyg
