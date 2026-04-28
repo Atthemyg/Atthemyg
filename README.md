@@ -66,40 +66,51 @@ On my free time I love to play videogames, read, draw, listen to music and watch
 
 
 - ### About other things I'm familiar with:
-
-<p align="left">
-  <a href="https://www.capcut.com/" target="_blank">
-    <img src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"
-         alt="CapCut"
-         width="55"
-         height="55"
-         style="margin-right: 10px; border-radius: 12px;" />
-  </a>
-
-  <a href="https://alightmotionapp.net/" target="_blank">
-    <img src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"
-         alt="Alight Motion"
-         width="55"
-         height="55"
-         style="margin-right: 10px; border-radius: 12px;" />
-  </a>
-
-  <a href="https://www.gimp.org/" target="_blank">
-    <img src="https://i.blogs.es/bc13c1/gimp/1366_2000.png"
-         alt="GIMP"
-         width="55"
-         height="55"
-         style="margin-right: 10px; border-radius: 12px;" />
-  </a>
-
-  <a href="https://www.sweethome3d.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png"
-         alt="Sweet Home 3D"
-         width="55"
-         height="55"
-         style="border-radius: 12px;" />
-  </a>
-</p>
+  
+<table border="1" cellspacing="0" cellpadding="0" bordercolor="white">
+  <tr>
+    <td>
+      <a href="https://www.capcut.com/es-es/tools/desktop-video-editor">
+        <img
+          src="https://img.utdstc.com/icon/9c4/58d/9c458dc566d565f67010dd63299a838474526f43f3ac00fca211b970daf7d42d:200"
+          alt="CapCut"
+          width="55"
+          height="55"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://alightmotion.com/">
+        <img
+          src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/632cd1f7376a2b001d128e63.png"
+          alt="Alight Motion"
+          width="55"
+          height="55"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.gimp.org/">
+        <img
+          src="https://i.blogs.es/bc13c1/gimp/1366_2000.png"
+          alt="GIMP"
+          width="55"
+          height="55"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.sweethome3d.com/">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/fr/f/f6/SweetHome3DLogo.png"
+          alt="Sweet Home 3D"
+          width="55"
+          height="55"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
