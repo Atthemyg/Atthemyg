@@ -67,7 +67,7 @@ On my free time I love to play videogames, read, draw, listen to music and watch
 
 - ### About other things I'm familiar with:
   
-<table border="1" cellspacing="0" cellpadding="0" bordercolor="white">
+<table border="1" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://www.capcut.com/es-es/tools/desktop-video-editor">
@@ -95,7 +95,7 @@ On my free time I love to play videogames, read, draw, listen to music and watch
           src="https://i.blogs.es/bc13c1/gimp/1366_2000.png"
           alt="GIMP"
           width="55"
-          height="55"
+          height="45"
         />
       </a>
     </td>
@@ -187,7 +187,7 @@ My goal is to continue learning to improve my technical skills and participate i
 <table align="center">
   <tr>
     <td align="center">
-     <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s"/> 
+     <img width="25" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s"/> 
     </td>
     <td>
       atthemyg@gmail.com
