@@ -157,7 +157,7 @@ My goal is to continue learning to improve my technical skills and participate i
 <table align="center">
   <tr>
     <td align="center">
-     <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s"/> 
+     <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s"/> 
     </td>
     <td>
       atthemyg@gmail.com
